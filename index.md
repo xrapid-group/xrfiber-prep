@@ -9,14 +9,14 @@ This document is a standard operating procedure for the use of providing guidanc
 xRfiber comprises a motorized microscope that is wirelessly operated by an iPad, and a software to drive the microscope. It is dedicated to the measurement of fibers in air samples, following a large number of standards or recommendations in accordance with local rules. The microscope is operated in phase contrast, the images are captured by an iPhone or iPad and analyzed locally by means of an embedded artificial intelligence.
 
 Although training is provided when a unit is deployed in a laboratory, this document should also be read, understood and referred to when questions arise.
-If information is requested, particularly if relevant and not found in the document, the user is welcome to contact \[support@xrapid-group.com] for any further questions.
+If information is requested, particularly if relevant and not found in the document, the user is welcome to contact [support@xrapid-group.com][1] for any further questions.
 
 
 # 2. CONTEXT
 
-These instructions are for the use of researchers, technicians and operators in general who are performing air fiber sample diagnostics.
-This SOP contains general guidelines for the preparation and analysis of air fiber samples only. Please refer to relevant standards for xRfiber operation.
-This SOP is not a substitute for the preparation of slide samples. This serves as a guide within the frame of standards and/or recommendations.
+- These instructions are for the use of researchers, technicians and operators in general who are performing air fiber sample diagnostics.
+- This SOP contains general guidelines for the preparation and analysis of air fiber samples only. Please refer to relevant standards for xRfiber operation.
+- This SOP is not a substitute for the preparation of slide samples. This serves as a guide within the frame of standards and/or recommendations.
 
 ## 2.1. EQUIPMENT SPECIFICATIONS
 
@@ -84,7 +84,7 @@ Additionally, the best results are attained when: slides are prepared well.
 ## 6.1. SAFETY
 
 In the interest of safety:
-- Put on a lab coat, safety goggles and gloves for protection.  
+- Put on a lab coat, safety goggles and gloves for protection.
 - Make sure any long hair is pulled back away from face so as not to obscure vision or fall onto your workstation
 
 ## 6.2. WORKSTATION PREPARATION
@@ -123,3 +123,5 @@ OPTIONAL: If you need to keep this sample for an extended period of time, seal t
 Repeat the above steps for any additional samples to be created.
 
 ## 6.4. WORKSTATION CLEANING
+
+[1]:	mailto:%20support@xrapid-group.com
